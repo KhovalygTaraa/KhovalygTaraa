@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KhovalygTaraa
+- 👋 Hi, I’m Khovalyg Taraa
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Golang, K8s
 - 💞️ I’m looking to collaborate on something interesting
