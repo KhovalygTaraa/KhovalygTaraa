@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khovalyg Taraa
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Golang, K8s
+- 👀 I’m Golang developer
+- 🌱 I’m currently machine learning
 - 💞️ I’m looking to collaborate on something interesting
 - 📫 How to reach me @khtaraa(telegram)
 
